@@ -1,0 +1,4 @@
+Io adafruit (Online platform)
+GLC PCB (Exporters)
+
+Blockchain(IPFS software, Visual Studio)
